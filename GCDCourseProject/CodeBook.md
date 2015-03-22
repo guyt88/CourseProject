@@ -1,10 +1,10 @@
 
-#DATA DICTIONARY - HUMAN ACTIVITY RECOGNITION"
+#DATA DICTIONARY - HUMAN ACTIVITY RECOGNITION
 
 ##SUBJECT AND ACTIVITY LABELS
 
-Activity - (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
-Subject - Numeric Label between 1 and 30 denoting each of the 30 experiment participants
+ - Activity - (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
+ - Subject - Numeric Label between 1 and 30 denoting each of the 30 experiment participants
 
 
 ##MEASUREMENTS (All values are the means by activity and subject for each of the measurements below)
@@ -23,89 +23,89 @@ features_info.txt that is supplied with the experimental data:
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 
-timeBodyAccelerationMeanX  
-timeBodyAccelerationMeanY  
-timeBodyAccelerationMeanZ  
+ - timeBodyAccelerationMeanX  
+ - timeBodyAccelerationMeanY  
+ - timeBodyAccelerationMeanZ  
 
-timeGravityAccelerationMeanX 
-timeGravityAccelerationMeanY 
-timeGravityAccelerationMeanZ 
+ - timeGravityAccelerationMeanX 
+ - timeGravityAccelerationMeanY 
+ - timeGravityAccelerationMeanZ 
 
-timeBodyAccelerationJerkMeanX 
-timeBodyAccelerationJerkMeanY
-timeBodyAccelerationJerkMeanZ
+ - timeBodyAccelerationJerkMeanX 
+ - timeBodyAccelerationJerkMeanY
+ - timeBodyAccelerationJerkMeanZ
 
-timeBodyGyroMeanX
-timeBodyGyroMeanY
-timeBodyGyroMeanZ
+ - timeBodyGyroMeanX
+ - timeBodyGyroMeanY
+ - timeBodyGyroMeanZ
 
-timeBodyGyroJerkMeanX
-timeBodyGyroJerkMeanY
-timeBodyGyroJerkMeanZ
+ - timeBodyGyroJerkMeanX
+ - timeBodyGyroJerkMeanY
+ - timeBodyGyroJerkMeanZ
 
-timeBodyAccelerationMagnitudeMean
-timeGravityAccelerationMagnitudeMean
-timeBodyAccelerationJerkMagnitudeMean
-timeBodyGyroMagnitudeMean
-timeBodyGyroJerkMagnitudeMean
+ - timeBodyAccelerationMagnitudeMean
+ - timeGravityAccelerationMagnitudeMean
+ - timeBodyAccelerationJerkMagnitudeMean
+ - timeBodyGyroMagnitudeMean
+ - timeBodyGyroJerkMagnitudeMean
 
-FFTBodyAccelerationMeanX
-FFTBodyAccelerationMeanY
-FFTBodyAccelerationMeanZ
+ - FFTBodyAccelerationMeanX
+ - FFTBodyAccelerationMeanY
+ - FFTBodyAccelerationMeanZ
 
-FFTBodyAccelerationJerkMeanX
-FFTBodyAccelerationJerkMeanY
-FFTBodyAccelerationJerkMeanZ
+ - FFTBodyAccelerationJerkMeanX
+ - FFTBodyAccelerationJerkMeanY
+ - FFTBodyAccelerationJerkMeanZ
 
-FFTBodyGyroMeanX
-FFTBodyGyroMeanY
-FFTBodyGyroMeanZ
+ - FFTBodyGyroMeanX
+ - FFTBodyGyroMeanY
+ - FFTBodyGyroMeanZ
 
-FFTBodyAccelerationMagnitudeMean
-FFTBodyBodyAccelerationJerkMagnitudeMean
-FFTBodyBodyGyroMagnitudeMean
-FFTBodyBodyGyroJerkMagnitudeMean
+ - FFTBodyAccelerationMagnitudeMean
+ - FFTBodyBodyAccelerationJerkMagnitudeMean
+ - FFTBodyBodyGyroMagnitudeMean
+ - FFTBodyBodyGyroJerkMagnitudeMean
 
-timeBodyAccelerationStdDevX
-timeBodyAccelerationStdDevY
-timeBodyAccelerationStdDevZ
+ - timeBodyAccelerationStdDevX
+ - timeBodyAccelerationStdDevY
+ - timeBodyAccelerationStdDevZ
 
-timeGravityAccelerationStdDevX
-timeGravityAccelerationStdDevY
-timeGravityAccelerationStdDevZ
+ - timeGravityAccelerationStdDevX
+ - timeGravityAccelerationStdDevY
+ - timeGravityAccelerationStdDevZ
 
-timeBodyAccelerationJerkStdDevX
-timeBodyAccelerationJerkStdDevY
-timeBodyAccelerationJerkStdDevZ
+ - timeBodyAccelerationJerkStdDevX
+ - timeBodyAccelerationJerkStdDevY
+ - timeBodyAccelerationJerkStdDevZ
 
-timeBodyGyroStdDevX
-timeBodyGyroStdDevY
-timeBodyGyroStdDevZ
+ - timeBodyGyroStdDevX
+ - timeBodyGyroStdDevY
+ - timeBodyGyroStdDevZ
 
-timeBodyGyroJerkStdDevX
-timeBodyGyroJerkStdDevY
-timeBodyGyroJerkStdDevZ
+ - timeBodyGyroJerkStdDevX
+ - timeBodyGyroJerkStdDevY
+ - timeBodyGyroJerkStdDevZ
 
-timeBodyAccelerationMagnitudeStdDev
-timeGravityAccelerationMagnitudeStdDev
-timeBodyAccelerationJerkMagnitudeStdDev
-timeBodyGyroMagnitudeStdDev
-timeBodyGyroJerkMagnitudeStdDev
+ - timeBodyAccelerationMagnitudeStdDev
+ - timeGravityAccelerationMagnitudeStdDev
+ - timeBodyAccelerationJerkMagnitudeStdDev
+ - timeBodyGyroMagnitudeStdDev
+ - timeBodyGyroJerkMagnitudeStdDev
 
-FFTBodyAccelerationStdDevX
-FFTBodyAccelerationStdDevY
-FFTBodyAccelerationStdDevZ
+ - FFTBodyAccelerationStdDevX
+ - FFTBodyAccelerationStdDevY
+ - FFTBodyAccelerationStdDevZ
 
-FFTBodyAccelerationJerkStdDevX
-FFTBodyAccelerationJerkStdDevY
-FFTBodyAccelerationJerkStdDevZ
+ - FFTBodyAccelerationJerkStdDevX
+ - FFTBodyAccelerationJerkStdDevY
+ - FFTBodyAccelerationJerkStdDevZ
 
-FFTBodyGyroStdDevX
-FFTBodyGyroStdDevY
-FFTBodyGyroStdDevZ
+ - FFTBodyGyroStdDevX
+ - FFTBodyGyroStdDevY
+ - FFTBodyGyroStdDevZ
 
-FFTBodyAccelerationMagnitudeStdDev
-FFTBodyBodyAccelerationJerkMagnitudeStdDev
-FFTBodyBodyGyroMagnitudeStdDev
-FFTBodyBodyGyroJerkMagnitudeStdDev
+ - FFTBodyAccelerationMagnitudeStdDev
+ - FFTBodyBodyAccelerationJerkMagnitudeStdDev
+ - FFTBodyBodyGyroMagnitudeStdDev
+ - FFTBodyBodyGyroJerkMagnitudeStdDev
 
