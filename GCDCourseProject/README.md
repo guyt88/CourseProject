@@ -1,7 +1,6 @@
----
-title: "Summary of Human Activity Smartphone Dataset"
-output: html_document
----
+
+#Summary of Human Activity Smartphone Dataset
+
 The purpose of this project is to summarize the data gathered in the Human Activity Recognition Using Smartphones Dataset Version 1.0 (Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto).
 
 The dataset can be found here:
